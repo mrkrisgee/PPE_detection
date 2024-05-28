@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides the code for training a custom YOLOv8 model to detect whether individuals are wearing personal protective equipment (PPE) in videos. YOLOv8 (You Only Look Once) is a state-of-the-art, real-time object detection system.
+This repository provides the code for training a custom YOLOv8 model with custom data to detect whether individuals are wearing personal protective equipment (PPE) in videos. YOLOv8 (You Only Look Once) is a state-of-the-art, real-time object detection system.
 
 ## Examples
 
