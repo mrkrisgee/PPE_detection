@@ -32,7 +32,7 @@ https://universe.roboflow.com/roboflow-universe-projects/construction-site-safet
 
 Add the dataset to your Google Drive with the following hierarchy:
 
-<img src="https://github.com/mrkrisgee/PPE_detection/blob/main/extras/gDrive.png" width="608/2" height="416/2">
+<img src="https://github.com/mrkrisgee/PPE_detection/blob/main/extras/gDrive.png" width="608">
 
 ### Train the Model
 
